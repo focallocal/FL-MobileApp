@@ -1,5 +1,5 @@
 # FL-MobileApp
-#### Repo for Android and iOS app development of https://focallocal.org/home 
+#### Repo for Android and iOS app development of https://focallocal.org/home and https://brightertomorrowmap.com/
 
 *CustomTabs branch is most recent and preferred Android implementation at the moment.*
 
